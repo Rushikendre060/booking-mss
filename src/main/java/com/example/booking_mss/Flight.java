@@ -8,7 +8,7 @@ public class Flight {
 
     @GetMapping("/Flight")
     public String getdata() {
-        return "flight ticket has no discount today ";
+        return "flight are free today for people with pet BY sir Ratan TATA ";
     }
 
 }
