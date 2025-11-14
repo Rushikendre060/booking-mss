@@ -8,7 +8,7 @@ public class Railway {
 
     @GetMapping("/Railway")
     public String getdata() {
-        return "Railway ticket are at @35% discount ";
+        return "Railway ticket are at @7% discount by irctc ";
     }
 
 }
