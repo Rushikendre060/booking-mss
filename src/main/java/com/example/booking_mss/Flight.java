@@ -11,7 +11,7 @@ public class Flight {
         return "flight are free today for people with pet BY sir Ratan TATA ";
     }
      @GetMapping("/indigoflight")
-    public String getdata() {
+    public String putdata() {
         return "indigoflight are has announced something big ";
     }
 
